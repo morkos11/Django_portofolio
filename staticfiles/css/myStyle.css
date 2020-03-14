@@ -1,0 +1,13 @@
+.BODY{
+    background-image: url("../images/pic.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+#formContanier{
+    
+    padding-top: 75px;
+}
